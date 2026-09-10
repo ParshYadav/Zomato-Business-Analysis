@@ -1,10 +1,10 @@
-# 🍽️ Zomato Business Intelligence & Analytics Project
+# Zomato Business Intelligence & Analytics Project
 
-## 📋 Executive Summary
+## Executive Summary
 
 A comprehensive business intelligence project analyzing Zomato's restaurant ecosystem using advanced SQL analytics to drive strategic decision-making. This project demonstrates end-to-end business analysis capabilities, from data exploration to actionable insights that can impact revenue, market expansion, and operational efficiency.
 
-### 🎯 **Business Impact Overview**
+### **Business Impact Overview**
 - **Market Opportunity Identified**: $2B+ untapped digital delivery market in India
 - **Revenue Optimization Potential**: 15-25% increase through menu engineering insights
 - **Expansion Strategy**: Data-driven site selection reducing failure rates by 40-60%
@@ -12,7 +12,7 @@ A comprehensive business intelligence project analyzing Zomato's restaurant ecos
 
 ---
 
-## 🏢 Business Context
+## Business Context
 
 **Company**: Zomato - Leading restaurant aggregator and food delivery platform  
 **Dataset**: 9,000+ restaurant records across 15 countries  
